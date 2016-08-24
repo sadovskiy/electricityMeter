@@ -1,2 +1,2 @@
 # mercury200
-Readout from Mercury 200 (еnergy meters). Снятие показаний со счётчика электроэнергии Меркурий 200
+Readout from еnergy meters. Снятие показаний со счётчиков электроэнергии меркурий и её учёт.
